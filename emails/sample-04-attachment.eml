@@ -1,0 +1,28 @@
+Message-ID: <CAF2ab91-0004@mail.example.com>
+Date: Thu, 20 Aug 2026 11:47:09 -0700
+From: "Okonkwo, Chidi" <chidi.okonkwo@example.com>
+To: You <you@example.com>
+Subject: =?UTF-8?B?UsOpc3Vtw6kgcmV2aWV3IOKAlCBkdWUgMy8xNA==?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="m2_44de8b10"
+
+--m2_44de8b10
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Attached is the draft.
+
+Please review it and send comments back by 3/14. If you can get to it
+sooner that would help, I want to circulate a clean version EOD Monday.
+
+Chidi
+
+--m2_44de8b10
+Content-Type: text/plain; charset="utf-8"; name="notes.txt"
+Content-Disposition: attachment; filename="notes.txt"
+Content-Transfer-Encoding: base64
+
+RHJhZnQgbm90ZXM6Ci0gdGlnaHRlbiB0aGUgc3VtbWFyeQotIGN1dCB0aGUgdGhpcmQg
+YnVsbGV0Cg==
+
+--m2_44de8b10--

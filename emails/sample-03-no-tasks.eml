@@ -1,0 +1,21 @@
+Message-ID: <CAF2ab91-0003@mail.example.com>
+Date: Wed, 19 Aug 2026 06:00:00 +0000
+From: The Weekly Dispatch <news@example.net>
+To: You <you@example.com>
+Subject: This week in infrastructure
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+THE WEEKLY DISPATCH
+Issue #212
+
+A quiet week in the world of build tooling. Our lead story looks at why
+so many teams are quietly abandoning their monorepos, and what they are
+replacing them with.
+
+Elsewhere: a new release of the usual suspects, and a long read on the
+economics of running your own hardware in 2026.
+
+Read online: https://example.net/dispatch/212
+Unsubscribe: https://example.net/unsub?id=00212

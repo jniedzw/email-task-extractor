@@ -1,0 +1,41 @@
+Message-ID: <CAF2ab91-0002@mail.example.com>
+Date: Tue, 18 Aug 2026 16:03:51 -0400
+From: Priya Raman <p.raman@example.org>
+To: You <you@example.com>
+Cc: team@example.org
+Subject: Re: onboarding docs
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="b1_7f3a9c2e"
+
+--b1_7f3a9c2e
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Following up on this thread.
+
+Two things:
+- Update the setup guide with the new env var names
+- Ping Marcus about VPN access for the contractors
+
+No rush on the second one, but the guide should be done before the new
+hires start next Monday.
+
+Priya
+
+--b1_7f3a9c2e
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<html><body>
+<p>Following up on this thread.</p>
+<p>Two things:</p>
+<ul>
+<li>Update the setup guide with the new env var names</li>
+<li>Ping Marcus about VPN access for the contractors</li>
+</ul>
+<p>No rush on the second one, but the guide should be done before the new
+hires start next Monday.</p>
+<p>Priya</p>
+</body></html>
+
+--b1_7f3a9c2e--
