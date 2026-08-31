@@ -1,12 +1,8 @@
 # Email Task Extractor and Organiser
-#### Video Demo: <URL HERE>
-#### Description:
 
-# Email Task Extractor and Organiser
+#### Video Demo: https://youtu.be/22KjhkNVcZw
 
-#### Video Demo: <URL HERE>
-
-#### Description:
+#### Description
 
 This project is an Email Task Extractor. The code in project.py reads .eml files from a folder named on the command line. These .eml files hold buried deadlines within the emails which need to be extracted and sorted for easy reading. The tasks that are extracted are requests and action items that the sender is asking you to complete. Then each task from the emails is sorted into its deadlines by date with the closest date being first in the list. The last pieces of text will be the ones with no deadline or date within the email.
 
@@ -36,8 +32,7 @@ extract_deadline - Return a datetime for the deadline mentioned in text or None.
 
 rank_tasks - Return tasks sorted by deadline with the undated tasks last.
 
-**test_project.py** — [what's covered, and why these three functions are
-the testable ones]
+**test_project.py** 
 
 I did not test the first function parse_email because it needs a file whereas the other functions can be tested using made up values.
 
@@ -69,7 +64,7 @@ Some of the decisions that were made was to create an allowlist because a blockl
 
 ## Known limitations
 
-Date formats are not included only days of the week and today or tomorrow are.
-The deadlines have to be within the same sentence otherwise they're not picked up eg. if the deadline is three sentences away.
-Tasks that are addressed to someone else get included eg. '2. Someone should look at the failing nightly job'.
-One gap within this code is that real inboxes would produce false positives. Real inboxes are filled with please and can you so an example that would land in the to do list is eg. 'Please do not reply to this message'.
+- Date formats are not included only days of the week and today or tomorrow are.
+- The deadlines have to be within the same sentence otherwise they're not picked up eg. if the deadline is three sentences away.
+- Tasks that are addressed to someone else get included eg. '2. Someone should look at the failing nightly job'.
+- One gap within this code is that real inboxes would produce false positives. Real inboxes are filled with please and can you so an example that would land in the to do list is eg. 'Please do not reply to this message'.
